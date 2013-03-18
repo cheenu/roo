@@ -1,0 +1,10 @@
+lib/roo.rb 0af85d50034b2a759a7fb453f6a0e2afa60182b8
+lib/roo/csv.rb 51780937c20b53220961fff4e2b0ef591806d1c7
+lib/roo/excel.rb 87d4477137acd66fa07581a411d86d572f6fea95
+lib/roo/excelx.rb 5a65b19402098412889113b3f8aa3190ff311953
+lib/roo/google.rb 200f52c05f53fc578dcbb6e6b774a87d583230f5
+lib/roo/worksheet.rb 443a1c68d48ab81209aa316630c2a8492ed22eac
+lib/roo/openoffice.rb 9706f442699c806f5d17e5a8086ed04d4bd9933d
+lib/roo/excel2003xml.rb 3b94486eef262f6a1c696ae547f73858c3af146e
+lib/roo/roo_rails_helper.rb 6bd5a62937ae5f751d5c865d963c23780ff82101
+lib/roo/generic_spreadsheet.rb 91b9d43c40b694825e57173374b1aee6d7af6bb0
